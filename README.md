@@ -1,4 +1,2 @@
 # 👋
 
-[🌟](https://xinzhanguo.github.io/)
-
